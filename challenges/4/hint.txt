@@ -1,0 +1,2 @@
+flag is hidden in 'flag.txt'.
+flag 藏在了 'flag.txt' 里.

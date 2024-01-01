@@ -1,0 +1,2 @@
+there is a daemon running, try to communicate with it!
+有个进程正在运行, 试着跟它通信?
